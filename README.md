@@ -1,4 +1,4 @@
-# XV Quiz (CSL 3030)
+# XV  (CSL 3030)
 
 Welcome to the XV Quiz for CSL 3030 - Operating Systems!
 
